@@ -1,7 +1,0 @@
-[[rules]]
-	description = "entropy"
-    entropies = [
-        "1-8.9",
-    ]
-	tags = ["entropy"]
-
